@@ -14,3 +14,11 @@ settings.json
 i18n/all_languages.sh
 # User notecards - personal data
 notecards/*.json
+/.codex
+/CHANGELOG_v2.0.0.md
+/CHANGELOG_v2.2.3.md
+/CHANGELOG_v2.3.0.md
+/CODE_REVIEW_v2.0.0.md
+/ControlCenterWidget.qml
+/RELEASE_NOTES_v2.0.0.md
+/preview.png

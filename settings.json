@@ -1,10 +1,12 @@
 {
-  "message": "Clipboard Panel",
-  "backgroundColor": "#fabd2f",
+  "enableTodoIntegration": false,
+  "pincardsEnabled": true,
+  "notecardsEnabled": true,
+  "showCloseButton": true,
   "cardColors": {
     "Text": {
       "bg": "mOutline",
-      "separator": "mSurface",
+      "separator": "mOnSurface",
       "fg": "mOnSurface"
     },
     "Image": {
@@ -75,10 +77,9 @@
       "fg": "#1e1418"
     }
   },
-  "enableTodoIntegration": true,
-  "autoOpenPinnedPanel": false,
-  "pincardsEnabled": true,
-  "notecardsEnabled": true,
-  "showCloseButton": true,
-  "closeOnBackgroundClick": true
+  "fullscreenMode": false,
+  "hidePanelBackground": false,
+  "autoPaste": false,
+  "autoPasteOnRightClick": false,
+  "autoPasteDelay": 300
 }
